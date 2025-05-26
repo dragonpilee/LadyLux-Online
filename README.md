@@ -1,5 +1,12 @@
 # LadyLux Online
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/ladylux-online/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/your-username/ladylux-online)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/ladylux-online)
+![Issues](https://img.shields.io/github/issues/your-username/ladylux-online)
+![Pull Requests](https://img.shields.io/github/issues-pr/your-username/ladylux-online)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/ladylux-online)
+![Dependencies](https://img.shields.io/david/your-username/ladylux-online)
 
 LadyLux Online is a premier online destination for women's luxury clothing. Discover the latest trends and timeless classics from top designers in the fashion industry. This repository contains the source code for the LadyLux Online web application.
 
@@ -23,33 +30,20 @@ LadyLux Online is a premier online destination for women's luxury clothing. Disc
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:  
+   `git clone https://github.com/your-username/ladylux-online.git`
 
-   ```bash
-   git clone https://github.com/your-username/ladylux-online.git
-   ```
+2. Navigate to the project directory:  
+   `cd ladylux-online`
 
-2. Navigate to the project directory:
+3. Install dependencies:  
+   `npm install`
 
-   ```bash
-   cd ladylux-online
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Set up environment variables:
-
+4. Set up environment variables:  
    Create a `.env` file in the root directory and add the necessary variables.
 
-5. Start the development server:
-
-   ```bash
-   npm start
-   ```
+5. Start the development server:  
+   `npm start`
 
 6. Open your browser and visit `http://localhost:3000` to explore LadyLux Online.
 
@@ -58,14 +52,15 @@ LadyLux Online is a premier online destination for women's luxury clothing. Disc
 We welcome contributions to enhance LadyLux Online! Follow these steps to contribute:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
+2. Create a new branch:  
+   `git checkout -b feature/your-feature-name`
 3. Implement your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
+4. Commit your changes:  
+   `git commit -am 'Add new feature'`
+5. Push to the branch:  
+   `git push origin feature/your-feature-name`
 6. Create a new Pull Request.
 
 ## License
 
 LadyLux Online is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
