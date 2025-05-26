@@ -13,7 +13,7 @@
 LadyLux Online is a premier online destination for women's luxury clothing. Discover the latest trends and timeless classics from top designers in the fashion industry. This repository contains the source code for the LadyLux Online web application.
 
 > **Developed by Alan Cyril Sunny**  
-> If you like this project, consider giving it a ⭐ on GitHub — it helps a lot!
+> If you like this project, please ⭐ the repo on GitHub — your support means a lot!
 
 ## Features
 
@@ -36,7 +36,7 @@ LadyLux Online is a premier online destination for women's luxury clothing. Disc
 ## Installation
 
 1. Clone the repository:  
-   `git clone https://github.com/your-username/ladylux-online.git`
+   `git clone https://github.com/dragonpilee/ladylux-online.git`
 
 2. Navigate to the project directory:  
    `cd ladylux-online`
