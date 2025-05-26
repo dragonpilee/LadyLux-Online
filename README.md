@@ -33,7 +33,7 @@ LadyLux Online is a premier online destination for women's luxury clothing. Disc
 ## Installation
 
 1. Clone the repository:  
-   `git clone https://github.com/your-username/ladylux-online.git`
+   `git clone https://github.com/dragonpilee/LadyLux-Online.git`
 
 2. Navigate to the project directory:  
    `cd ladylux-online`
