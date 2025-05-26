@@ -1,12 +1,14 @@
 # LadyLux Online
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/ladylux-online/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/your-username/ladylux-online)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/ladylux-online)
-![Issues](https://img.shields.io/github/issues/your-username/ladylux-online)
-![Pull Requests](https://img.shields.io/github/issues-pr/your-username/ladylux-online)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/ladylux-online)
-![Dependencies](https://img.shields.io/david/your-username/ladylux-online)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Express](https://img.shields.io/badge/Backend-Express.js-lightgrey)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![React Router](https://img.shields.io/badge/Router-React%20Router-red)
+![dotenv](https://img.shields.io/badge/Env-dotenv-9cf)
+![UUID](https://img.shields.io/badge/ID-UUID-yellow)
+![CORS](https://img.shields.io/badge/API%20Access-CORS-brightgreen)
+![Testing](https://img.shields.io/badge/Testing-Jest%20%26%20RTL-red)
+![Performance](https://img.shields.io/badge/Monitoring-Web%20Vitals-purple)
 
 LadyLux Online is a premier online destination for women's luxury clothing. Discover the latest trends and timeless classics from top designers in the fashion industry. This repository contains the source code for the LadyLux Online web application.
 
