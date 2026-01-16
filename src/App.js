@@ -16,7 +16,7 @@ const App = () => {
   const [allCategories, setAllCategories] = useState([]);
   const [activeCategory, setActiveCategory] = useState('');
   const [allCurrencies, setAllCurrencies] = useState([]);
-  const [selectedCurrency, setSelectedCurrency] = useState('$');
+  const [selectedCurrency, setSelectedCurrency] = useState('₹');
   const [allProducts, setAllProducts] = useState([]);
   const [cartItems, setCartItems] = useState([]);
   const [totalPayment, setTotalPayment] = useState(0);

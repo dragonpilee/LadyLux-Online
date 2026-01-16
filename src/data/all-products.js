@@ -40,6 +40,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4188.18
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -189,6 +198,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -347,6 +365,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6706.4
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -455,6 +482,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5204.1
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -569,6 +605,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5851.5
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -688,6 +733,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4503.58
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -797,6 +851,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 7606.12
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -915,6 +978,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5303.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -1028,6 +1100,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6465.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -1129,6 +1210,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -1236,6 +1326,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -1382,6 +1481,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -1481,6 +1589,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -1588,6 +1705,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -1689,6 +1815,15 @@ const itemsObj = [
         ],
         "inStock": false,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -1838,6 +1973,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -1944,6 +2088,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4188.18
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -2010,6 +2163,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -2121,6 +2283,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -2221,6 +2392,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -2326,6 +2506,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -2474,6 +2663,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -2581,6 +2779,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -2684,6 +2891,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -2834,6 +3050,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -2940,6 +3165,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -3041,6 +3275,15 @@ const itemsObj = [
         ],
         "inStock": false,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -3187,6 +3430,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -3289,6 +3541,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -3398,6 +3659,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -3500,6 +3770,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -3648,6 +3927,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -3754,6 +4042,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -3854,6 +4151,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5103.67
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -3965,6 +4271,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -4067,6 +4382,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -4178,6 +4502,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -4279,6 +4612,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -4388,6 +4730,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6504.71
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -4489,6 +4840,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -4599,6 +4959,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -4704,6 +5073,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -4805,6 +5183,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6722.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -4961,6 +5348,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4278.65
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -5112,6 +5508,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6380.21
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -5221,6 +5626,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 7470.0
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -5377,6 +5791,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6706.4
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -5490,6 +5913,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -5598,6 +6030,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4188.18
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -5697,6 +6138,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 2001.13
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -5804,6 +6254,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 3643.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -5906,6 +6365,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6374.4
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -6051,6 +6519,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4603.18
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -6154,6 +6631,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6722.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -6299,6 +6785,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4278.65
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -6440,6 +6935,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6465.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -6540,6 +7044,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 7470.0
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -6685,6 +7198,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6706.4
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -6784,6 +7306,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -6891,6 +7422,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -6990,6 +7530,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -7097,6 +7646,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -7196,6 +7754,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -7303,6 +7870,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -7402,6 +7978,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -7509,6 +8094,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -7608,6 +8202,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6722.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -7749,6 +8352,15 @@ const itemsObj = [
         ],
         "inStock": false,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4278.65
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -7897,6 +8509,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6380.21
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -7996,6 +8617,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 7470.0
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -8140,6 +8770,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6706.4
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -8289,6 +8928,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -8388,6 +9036,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -8495,6 +9152,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -8594,6 +9260,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -8701,6 +9376,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -8801,6 +9485,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -8946,6 +9639,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -9047,6 +9749,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6465.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -9163,6 +9874,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 3643.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -9271,6 +9991,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6374.4
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -9389,6 +10118,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4503.58
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -9489,6 +10227,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 8105.78
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -9598,6 +10345,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4203.12
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -9697,6 +10453,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6465.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -9804,6 +10569,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6504.71
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -9903,6 +10677,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5851.5
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -10012,6 +10795,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -10115,6 +10907,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6465.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -10227,6 +11028,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6004.22
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -10327,6 +11137,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5062.17
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -10436,6 +11255,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 8506.67
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -10537,6 +11365,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4403.15
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -10647,6 +11484,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6465.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -10749,6 +11595,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -10859,6 +11714,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 8506.67
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -10961,6 +11825,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -11071,6 +11944,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 8506.67
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -11173,6 +12055,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -11280,6 +12171,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -11379,6 +12279,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -11489,6 +12398,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6464.87
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -11590,6 +12508,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -11697,6 +12624,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -11796,6 +12732,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -11905,6 +12850,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -12004,6 +12958,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6464.87
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -12111,6 +13074,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -12212,6 +13184,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -12323,6 +13304,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -12425,6 +13415,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5404.13
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -12541,6 +13540,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 4603.18
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -12648,6 +13656,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5604.16
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -12765,6 +13782,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6464.87
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -12873,6 +13899,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 3902.66
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -12990,6 +14025,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6374.4
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -13099,6 +14143,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5404.13
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -13215,6 +14268,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -13322,6 +14384,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 59044.54
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -13438,6 +14509,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6805.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -13545,6 +14625,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6104.65
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -13661,6 +14750,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -13769,6 +14867,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 7806.15
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -13885,6 +14992,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5404.13
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -13997,6 +15113,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -14104,6 +15229,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -14220,6 +15354,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6722.17
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -14328,6 +15471,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6104.65
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -14444,6 +15596,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -14552,6 +15713,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -14668,6 +15838,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -14776,6 +15955,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -14892,6 +16080,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5404.13
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -14998,6 +16195,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -15114,6 +16320,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -15222,6 +16437,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5704.59
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -15336,6 +16560,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -15443,6 +16676,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6104.65
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -15559,6 +16801,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5704.59
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -15670,6 +16921,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -15777,6 +17037,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -15893,6 +17162,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -16000,6 +17278,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5704.59
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -16116,6 +17403,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -16227,6 +17523,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5704.59
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -16334,6 +17639,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 6104.65
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -16450,6 +17764,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -16557,6 +17880,15 @@ const itemsObj = [
         ],
         "inStock": true,
         "prices": [
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
             {
                 "__typename": "Price",
                 "currency": {
@@ -16673,6 +18005,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 5704.59
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -16785,6 +18126,15 @@ const itemsObj = [
                 "__typename": "Price",
                 "currency": {
                     "__typename": "Currency",
+                    "label": "INR",
+                    "symbol": "₹"
+                },
+                "amount": 9204.7
+            },
+            {
+                "__typename": "Price",
+                "currency": {
+                    "__typename": "Currency",
                     "label": "USD",
                     "symbol": "$"
                 },
@@ -16882,7 +18232,11 @@ const itemsObj = [
 ]
 
 
-const currenciesObj = [
+const currenciesObj = [    {
+        "__typename": "Currency",
+        "label": "INR",
+        "symbol": "₹"
+    },
     {
         "__typename": "Currency",
         "label": "USD",
