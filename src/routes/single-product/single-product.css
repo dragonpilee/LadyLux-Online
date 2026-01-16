@@ -99,4 +99,14 @@
   .single-product-titles {
     padding: 2rem;
   }
+
+  .product-showcase {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.5rem;
+  }
+
+  .product-showcase img {
+    height: 15rem;
+  }
 }

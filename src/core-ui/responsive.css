@@ -2,6 +2,7 @@
   .store-products {
     grid-template-columns: repeat(2, 1fr);
   }
+
   .single-product {
     gap: 1rem;
   }
@@ -22,18 +23,14 @@
     grid-template-columns: 1fr;
   }
 
-  .product-showcase {
-    flex-direction: column-reverse;
-  }
   .big-picture {
     grid-column-start: 1;
     grid-row-start: 1;
   }
-  .mini-pictures {
-    flex-direction: row;
-    width: 100%;
-    overflow-x: scroll;
-    gap: 2rem;
+
+  .big-picture {
+    grid-column-start: 1;
+    grid-row-start: 1;
   }
 
   .grid-one,
@@ -43,12 +40,15 @@
   .grid-five {
     height: 20rem;
   }
+
   .grid-four .grid-button {
     right: -50%;
   }
+
   .grid-five .grid-button {
     right: -70%;
   }
+
   .landing-hero {
     min-height: 30rem;
   }
@@ -58,7 +58,31 @@
   .cart-content {
     flex-direction: column-reverse;
   }
+
   .cart-product-interaction {
     flex-direction: row;
+  }
+
+  .products-hero h2 {
+    font-size: 2.5rem;
+    padding: 1rem;
+  }
+
+  .landing-hero h1 {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .products-hero h2 {
+    font-size: 2rem;
+  }
+
+  .landing-hero h1 {
+    font-size: 2.5rem;
+  }
+
+  .landing-hero {
+    min-height: 25rem;
   }
 }

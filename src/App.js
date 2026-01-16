@@ -48,6 +48,9 @@ const App = () => {
     const storedSelectedCurrency = JSON.parse(localStorage.getItem('selectedCurrency'));
     if (storedSelectedCurrency) {
       setSelectedCurrency(storedSelectedCurrency);
+    } else {
+      setSelectedCurrency('₹');
+      localStorage.setItem('selectedCurrency', JSON.stringify('₹'));
     }
   }, []);
 

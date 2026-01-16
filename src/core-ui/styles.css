@@ -22,17 +22,23 @@
 }
 
 body {
-  -ms-overflow-style: none; /* for Internet Explorer, Edge */
-  scrollbar-width: none; /* for Firefox */
+  -ms-overflow-style: none;
+  /* for Internet Explorer, Edge */
+  scrollbar-width: none;
+  /* for Firefox */
   overflow-y: scroll;
   box-sizing: border-box;
 }
+
 body::-webkit-scrollbar {
-  display: none; /* for Chrome, Safari, and Opera */
+  display: none;
+  /* for Chrome, Safari, and Opera */
 }
+
 image {
   display: block;
 }
+
 ul,
 ol,
 li {
@@ -63,6 +69,7 @@ main {
 .order-btn {
   font-family: var(--font-raleway);
 }
+
 .cart-attr .selected-attr-box,
 .cart-attr .unselected-attr-box,
 .cart-overlay-item-attr .selected-attr-box,
@@ -88,8 +95,6 @@ header ul,
 .quick-attribute .buttons,
 .active-add-to-cart,
 .inactive-add-to-cart,
-.product-showcase,
-.mini-pictures,
 .single-product .data,
 .single-product-price,
 .single-product .attribute,
@@ -144,6 +149,7 @@ header ul,
   text-align: center;
   color: var(--c-white);
 }
+
 .active-add-to-cart {
   flex-direction: column;
   align-items: center;
@@ -158,6 +164,7 @@ header ul,
   cursor: pointer;
   background-color: var(--c-primary);
 }
+
 .inactive-add-to-cart {
   flex-direction: column;
   align-items: center;
@@ -176,6 +183,7 @@ header ul,
 .success-alert {
   display: none;
 }
+
 .success-alert.visible {
   display: inline-block;
   position: fixed;
@@ -186,6 +194,7 @@ header ul,
   padding: 0.7rem;
   border-radius: 10px;
 }
+
 .success-alert.visible p {
   font-family: var(--font-raleway);
   font-size: 1rem;
