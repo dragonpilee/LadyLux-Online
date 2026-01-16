@@ -331,7 +331,7 @@ const App = () => {
           element={<Landing changeCategory={changeCategory} />}
         />
         <Route
-          path={`/store/${activeCategory}`}
+          path="/store/:categoryName"
           element={
             <AllProducts
               allProducts={allProducts}
@@ -339,11 +339,12 @@ const App = () => {
               selectedCurrency={selectedCurrency}
               handleAddProduct={handleAddProduct}
               alertMessageMain={alertMessageMain}
+              changeCategory={changeCategory}
             />
           }
         />
         <Route
-          path={`/store/:id`}
+          path="/product/:id"
           element={
             <SingleProduct
               selectedCurrency={selectedCurrency}

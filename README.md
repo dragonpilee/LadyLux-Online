@@ -33,38 +33,51 @@ LadyLux Online is a premier online destination for women's luxury clothing. Disc
 - **Testing Libraries**: Jest, React Testing Library, and user-event for comprehensive component testing.
 - **Web Vitals**: Tool for monitoring and optimizing real user metrics to enhance web performance.
 
-## Installation
+## Deployment
 
-1. Clone the repository:  
-   `git clone https://github.com/dragonpilee/ladylux-online.git`
+### 🐳 Docker (Recommended)
 
-2. Navigate to the project directory:  
-   `cd ladylux-online`
+LadyLux Online is fully containerized for easy deployment.
 
-3. Install dependencies:  
-   `npm install`
+1.  **Build and Run**:
+    ```bash
+    docker-compose up --build -d
+    ```
+2.  **Access**: Open your browser and visit `http://localhost`.
 
-4. Set up environment variables:  
-   Create a `.env` file in the root directory and add the necessary variables.
+### 🚀 Netlify
 
-5. Start the development server:  
-   `npm start`
+The project is configured for seamless deployment on Netlify.
 
-6. Open your browser and visit `http://localhost:3000` to explore LadyLux Online.
+1.  **Connect Repository**: Connect your GitHub repository to Netlify.
+2.  **Build Settings**:
+    - **Build Command**: `npm run build`
+    - **Publish Directory**: `build`
+3.  **Automatic Deployment**: Netlify will automatically detect the `netlify.toml` and handle SPA routing.
+
+## Local Development
+
+1.  **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+2.  **Start Development Server**:
+    ```bash
+    npm start
+    ```
+3.  **Access**: Visit `http://localhost:3000`.
+
+## Technologies Used
+
+- **React 18**: Modern UI development.
+- **React Router 6**: Robust SPA routing with URL parameters.
+- **Docker**: Containerization for consistent environments.
+- **Nginx**: High-performance production web serving.
+- **Netlify**: Optimized static hosting.
 
 ## Contributing
 
-We welcome contributions to enhance LadyLux Online! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:  
-   `git checkout -b feature/your-feature-name`
-3. Implement your changes.
-4. Commit your changes:  
-   `git commit -am 'Add new feature'`
-5. Push to the branch:  
-   `git push origin feature/your-feature-name`
-6. Create a new Pull Request.
+We welcome contributions! Please fork the repo and create a pull request.
 
 ## License
 

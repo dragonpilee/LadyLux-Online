@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
 import Product from "./Product.js";
 import CategoryAllHero from '../../assets/images/product-listing-images/category-all-hero.mp4'
 import CategoryDressesHero from '../../assets/images/product-listing-images/category-dresses-hero.mp4'
@@ -13,10 +14,18 @@ const AllProducts = ({ allProducts,
   selectedCurrency,
   handleAddProduct,
   alertMessageMain,
-  productId }) => {
+  productId,
+  changeCategory }) => {
 
   const [quickAddToCartVisible, setQuickAddToCartVisible] = useState(false);
   const [activeItem, setActiveItem] = useState(null);
+  const { categoryName } = useParams();
+
+  useEffect(() => {
+    if (categoryName && categoryName !== activeCategory) {
+      changeCategory(categoryName);
+    }
+  }, [categoryName, activeCategory, changeCategory]);
 
   useEffect(() => {
     document.title = `${activeCategory.charAt(0).toUpperCase() + activeCategory.slice(1)} | LadyLux Online`;

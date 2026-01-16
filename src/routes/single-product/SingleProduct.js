@@ -1,4 +1,5 @@
 import React, { useCallback, useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
 import Attribute from "../../components/attributes/Attributes.js";
 import AddToCartButton from "../../components/AddToCartButton.js";
 import ProductShowcase from "./ProductShowcase.js";
@@ -11,9 +12,10 @@ const SingleProduct = ({ selectedCurrency, handleAddProduct, alertMessageMain })
   const [allAttributesAreSelected, setAllAttributesAreSelected] = useState(false);
   const [singleProduct, setSingleProduct] = useState({});
   const [priceAmount, setPriceAmount] = useState("");
+  const { id } = useParams();
 
   useEffect(() => {
-    document.title = `${singleProduct.name} | LadyLux Online`;
+    document.title = `${singleProduct.name || 'Product'} | LadyLux Online`;
   }, [singleProduct]);
 
   const filterCurrency = (singleProduct, selectedCurrency) => {
@@ -26,7 +28,10 @@ const SingleProduct = ({ selectedCurrency, handleAddProduct, alertMessageMain })
 
     if (targetProduct) {
       setSingleProduct(targetProduct);
-      document.querySelector(".description").innerHTML = targetProduct.description;
+      const descriptionElement = document.querySelector(".description");
+      if (descriptionElement) {
+        descriptionElement.innerHTML = targetProduct.description;
+      }
       filterCurrency(targetProduct, selectedCurrency);
 
       if (targetProduct.attributes.length === 0) {
@@ -36,10 +41,8 @@ const SingleProduct = ({ selectedCurrency, handleAddProduct, alertMessageMain })
   }, [selectedCurrency]);
 
   useEffect(() => {
-    const pathname = window.location.pathname.toString().substring(7);
-    getProductById(pathname);
-
-  }, [getProductById]);
+    getProductById(id);
+  }, [getProductById, id]);
 
   useEffect(() => {
     ResetLocation();
