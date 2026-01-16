@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import addToCart from "../../assets/images/add-to-cart.png";
 import QuickAddToCart from './QuickAddToCart'
