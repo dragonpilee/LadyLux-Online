@@ -61,7 +61,7 @@ const Product = ({
     if (selectedAttributes.length === item.attributes.length) {
       handleAllAttributesAreSelected();
     }
-  }, [selectedAttributes, item.attributes.length]);
+  }, [selectedAttributes, item.attributes.length, handleAllAttributesAreSelected]);
 
   return (
     <div
