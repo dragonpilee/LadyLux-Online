@@ -13,7 +13,7 @@ const Product = ({
   const [priceAmount, setPriceAmount] = useState("");
   const [imageShadow, setImageShadow] = useState(false);
 
-  const filterCurrency = (item, selectedCurrency) => {
+  const filterCurrency = useCallback((item, selectedCurrency) => {
     const correctPrice = item?.prices?.find(
       (price) => price.currency.symbol === selectedCurrency
     );
@@ -22,7 +22,7 @@ const Product = ({
       setPriceAmount(correctPrice.amount.toFixed(2));
       setPricing(correctPrice);
     }
-  };
+  }, []);
 
   const handleSelectedAttributes = (attributeId, attributeValue) => {
     const newSelectedAttribute = { attributeId, attributeValue };
@@ -39,27 +39,23 @@ const Product = ({
     setSelectedAttributes(updatedAttributes);
   };
 
-  const handleAllAttributesAreSelected = () => {
+  const handleAllAttributesAreSelected = useCallback(() => {
     setAllAttributesAreSelected(true);
-  };
+  }, []);
 
-  const handleProductHasNoAttributes = () => {
+  const handleProductHasNoAttributes = useCallback(() => {
     if (item.attributes.length === 0) {
       handleAllAttributesAreSelected();
     }
-  };
+  }, [item.attributes.length, handleAllAttributesAreSelected]);
 
   useEffect(() => {
     handleProductHasNoAttributes();
-  }, []);
-
-  useEffect(() => {
-    handleProductHasNoAttributes();
-  }, []);
+  }, [handleProductHasNoAttributes]);
 
   useEffect(() => {
     filterCurrency(item, selectedCurrency);
-  }, [item, selectedCurrency]);
+  }, [item, selectedCurrency, filterCurrency]);
 
   useEffect(() => {
     if (selectedAttributes.length === item.attributes.length) {
